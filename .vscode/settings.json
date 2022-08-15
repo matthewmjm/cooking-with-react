@@ -1,0 +1,17 @@
+{
+	"workbench.colorCustomizations": {
+		"titleBar.activeForeground": "#ffffff",
+		"titleBar.inactiveForeground": "#ffffffcc",
+		"titleBar.activeBackground": "#0915ff",
+		"titleBar.inactiveBackground": "#0915ff"
+	},
+	"css.validate": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.tabSize": 2,
+	"eslint.validate": ["javascript", "vue"],
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"cSpell.words": ["Boogle", "Paskhaver", "tailwindcss"]
+}
